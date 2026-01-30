@@ -32,6 +32,9 @@ Purpose of the Dashboard:
 This dashboard helps in:
 
 Improving emergency room efficiency
+Dashboard image
+![Hospital Dashboard Final ](https://github.com/user-attachments/assets/e84491ae-95c0-4664-965a-ade16a0c03cd)
+
 
 Identifying patient trends and peak loads
 
